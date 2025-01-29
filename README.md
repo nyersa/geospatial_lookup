@@ -9,3 +9,19 @@ Run the install.bat to make sure you have the correct python libraries installed
       tkinter, threading, webbrowser, utm, geopandas, os, csv, time, shapely, requests, pyarrow
 
 Run the geolookup.bat to try a lookup.
+
+Access data from these servers:
+
+Elevation Data 
+https://opentopodata.org
+
+PLSS Data
+https://gis.blm.gov
+
+State/County Data
+https://geo.fcc.gov
+
+Hydro Data
+https://hydro.nationalmap.gov
+
+
