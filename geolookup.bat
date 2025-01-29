@@ -1,0 +1,1 @@
+python .\appdata\main_script.py
